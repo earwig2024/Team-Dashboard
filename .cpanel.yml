@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/earwiggr/public_html/
+    - export DEPLOYPATH=/home/earwiggr/public_html/application-tracking-system
     - /bin/cp -R * $DEPLOYPATH
